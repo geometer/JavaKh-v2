@@ -10,7 +10,7 @@ number of bytes.
  * 
  * "Borrowed" from http://mail-archives.apache.org/mod_mbox/hc-dev/200310.mbox/%3C200310101247.40166.ck@rrzn.uni-hannover.de%3E
  * 
- * @author Christian Kohlschütter
+ * @author Christian KohlschÃ¼tter
  * @version $Id$
  */
 public class LimitedSizeInputStream extends FilterInputStream {
